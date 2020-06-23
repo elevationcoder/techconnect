@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://cosmicChimp:Skiing0709@udemycourse-3bk0g.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://cosmicChimp:Skiing0709@udemycourse-3bk0g.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
