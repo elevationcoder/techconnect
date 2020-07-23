@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://cosmicChimp:Skiing0709@udemycourse-3bk0g.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "22134aa9c08d1093fc53",
+  "githubsecret": "35cc064a2b54315ac6f13212bb279d96bedc1886"
 }
